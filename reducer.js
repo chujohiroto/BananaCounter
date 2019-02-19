@@ -1,7 +1,7 @@
 import {ActionType} from './action'
 
 const initialState= {
-  count: 1000000000000000
+  count: 0
 }
 
 const reducer = (state = initialState,action)  =>{
