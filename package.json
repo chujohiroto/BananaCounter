@@ -1,0 +1,20 @@
+{
+  "name": "banana2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iRosSoftware <iros0522@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
+  }
+}
